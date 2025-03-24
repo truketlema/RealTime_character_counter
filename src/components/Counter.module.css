@@ -1,0 +1,9 @@
+body {
+  font-size: 2em;
+}
+.inputt {
+  padding: 20px 25px;
+  width: 300px;
+  height: 3vh;
+  border-radius: 7px;
+}

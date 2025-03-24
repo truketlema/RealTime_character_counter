@@ -1,5 +1,5 @@
 import { useState, useReducer, useEffect, useCallback } from "react";
-const characterlimit = 70;
+const characterlimit = 200;
 const initialState = {
   characterCount: 0,
 };
